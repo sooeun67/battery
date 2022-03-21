@@ -18,15 +18,12 @@
   -  중국: 한커
 
 
-<img src="https://github.com/sooeun67/battery/blob/main/images/process_overview.png" alt="drawing" style="width:600px;"/>
-
 <img src="https://github.com/sooeun67/battery/blob/main/images/formation_process_overview.png" alt="drawing" style="width:600px;"/>
 
 
 ----------
 
 
-![process_overview](/Users/sooeunoh/Documents/GitHub/assets/img/README/process_overview.png)
 
 # 1. Formation (충방전) 공정
 ### 전지를 충전해 방전 상태의 전지를 활성화시켜 전기적 특성을 부여하고, 방전용량을 검사하는 과정
