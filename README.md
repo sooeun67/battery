@@ -10,8 +10,8 @@
 - 배터리 셀에 전기적 특성을 부여해 활성화시키고 전지의 안정화 작업 후 결함 검사 및 배터리 등급을 부여하는 공정
 - 세부적으로 **Formation -> Aging -> IR/OCV -> Grading/Selecting 공정**으로 나눠집니다.
 - 
-![battery_process](./img/battery_process.png)
 
+<img src="https://github.com/sooeun67/battery/blob/main/images/process_overview.png" alt="drawing" style="width:600px;"/>
 
 ```diff
 - 전체 공정의 29%를 차지
