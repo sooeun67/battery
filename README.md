@@ -12,6 +12,7 @@
 - 
 
 
+<img src="https://github.com/sooeun67/battery/blob/main/images/process_overview.png" alt="drawing" style="width:600px;"/>
 
 ```diff
 - 전체 공정의 29%를 차지
